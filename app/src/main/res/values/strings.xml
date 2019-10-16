@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A.Auth</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="authorize_succesfull">Authorize succesfull</string>
+</resources>
